@@ -4,4 +4,4 @@ Integrantes:
 Agustín Fotin, edad: 29, ciudad: Santa Rosa de Calamuchita
 Sofia Rojas, edad : 26 , ciudad: Buenos Aires
 Patricia González
-Adriana Escubilla
+Adriana Escubilla, edad: 41, ciudad: Malvina Argentina Bs. As.
